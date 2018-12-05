@@ -1,1 +1,1 @@
-# spec2.0
+# Specification 2.0 drafts
